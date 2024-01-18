@@ -1,7 +1,7 @@
 <div align='center'>
 
 ## Aoba! 
-Sou Técnico em Redes e Desenvolvedor Full Stack...<br>Atualmente estou estudando Laravel e PHP...<br>
+Desenvolvedor Full Stack e Técnico em Redes...<br>Atualmente estou estudando C# e .NET...<br>
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=ormartins01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ormartins01&theme=dark&hide_border=false)<br/>
