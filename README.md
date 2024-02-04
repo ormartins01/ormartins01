@@ -23,7 +23,7 @@ Desenvolvedor Full Stack e Técnico em Redes...<br>Atualmente estou estudando C#
 <br>
 <br>
 
-## Possuo conhecimentos em:
+## Vivência de desenvolvimento em:
 <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -47,9 +47,12 @@ Desenvolvedor Full Stack e Técnico em Redes...<br>Atualmente estou estudando C#
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
+<br>
+
+## Contato:
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ormartins02) 
-
 </div>
 
 
