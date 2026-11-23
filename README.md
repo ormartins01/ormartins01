@@ -3,9 +3,7 @@
 ## Aoba! 
 Desenvolvedor Full Stack e Técnico em Redes...<br> Estudante de Engenharia de Software<br>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=ormartins01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ormartins01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ormartins01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Sequência de contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=ormartins01&theme=dark&hide_border=false)
 
 <br>
 <br>
